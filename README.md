@@ -9,7 +9,7 @@ I followed the directions [posted here](https://www.reddit.com/r/Ubiquiti/commen
 
 
 ### Copy Graphic
-To copy the graphic from local machine to unifi doorbell, from the cli of your local machine.
+To copy the graphic from local machine to unifi doorbell, from the cli of your local machine.  Note that ssh must be enabled see:  ([How to enable SSH](https://nicholassaraniti.com/2023/12/08/enabling-ubiquiti-camera-ssh-on-unvr/))
 
 `scp -O ~/path/santa-sprite.png ubnt@local.ip:/etc/persistent/santa-sprite.png`
 
