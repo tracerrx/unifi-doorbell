@@ -1,5 +1,5 @@
 # unifi-doorbell
-Unifi Doorbell Hacks
+Unifi Doorbell Sprites
 
 The below will replace the welcome graphic on a UNIFI G4 Pro Doorbell.  Note that the graphic will revert to the UNIFI supplied gif on reboot.  In addition, your gif will NOT LOOP.
 
