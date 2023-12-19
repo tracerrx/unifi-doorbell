@@ -22,9 +22,9 @@ ssh into the doorbell ([How to enable SSH](https://nicholassaraniti.com/2023/12/
 
 ### Automating
 change_sprite.sh is a simple bash script that automates the process and can be scripted in cron to change the graphics based upon date. The script "Should" run on any *nix. change_sprite.sh requires the following parameters:
-    -s /path/and/filename/of/sprite.png
-    -i local ip address of doorbell
-    -p ssh password of doorbell
+* -s /path/and/filename/of/sprite.png
+* -i local ip address of doorbell
+* -p ssh password of doorbell
 
 example usage
 `./change_sprite.sh -i 10.11.12.12 -s ./new-year-sprite.png -p YOURSSHPASSWORD`
