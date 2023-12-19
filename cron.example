@@ -1,0 +1,16 @@
+# For more information see the manual pages of crontab(5) and cron(8)
+#
+# m h  dom mon dow   command
+17 01 * 01 * change_sprite.sh -i 10.11.12.12 -s new-year-sprite.png -p YOURPASSWPRD #NEW YEARS (new-year)
+17 01 * 02 * change_sprite.sh -i 10.11.12.12 -s valentine-sprite.png -p YOURPASSWPRD  #VALENTINES (valentine)
+17 01 * 03 * change_sprite.sh -i 10.11.12.12 -s shamrock-sprite.png -p YOURPASSWPRD  #ST PATRICKS (shamrock)
+17 01 * 04 * change_sprite.sh -i 10.11.12.12 -s easter-sprite.png -p YOURPASSWPRD  #EASTER (easter)
+17 01 * 05 * change_sprite.sh -i 10.11.12.12 -s flag-sprite.png -p YOURPASSWPRD  #MEMORIAL DAY (flag)
+17 01 * 06 * change_sprite.sh -i 10.11.12.12 -s flag-sprite.png -p YOURPASSWPRD  #JULY4th (flag)
+17 01 * 07 * change_sprite.sh -i 10.11.12.12 -s flag-sprite.png -p YOURPASSWPRD  #JULY4th (flag)
+17 01 * 08 * change_sprite.sh -i 10.11.12.12 -s flag-sprite.png -p YOURPASSWPRD  #JULY4th (flag)
+17 01 * 09 * change_sprite.sh -i 10.11.12.12 -s flag-sprite.png -p YOURPASSWPRD  #JULY4th (flag)
+17 01 * 10 * change_sprite.sh -i 10.11.12.12 -s halloween-sprite.png -p YOURPASSWPRD  #HALLOWEEN (halloween)
+17 01 * 11 * change_sprite.sh -i 10.11.12.12 -s turkey-sprite.png -p YOURPASSWPRD  #THANKSGIVING (turkey)
+17 01 11 11 * change_sprite.sh -i 10.11.12.12 -s veterans-sprite.png -p YOURPASSWPRD  #VETERANS (veterans)
+17 01 * 12 * change_sprite.sh -i 10.11.12.12 -s santa-sprite.png -p YOURPASSWPRD  #CHRISTMAS (santa)
