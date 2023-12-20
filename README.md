@@ -32,3 +32,13 @@ example usage
 cron.example is an example cron file which changes the doorbell sprite each month.
 
 
+### Graphics
+![Easter](./easter-giphy.gif)
+![Flag](./flag-giphy.gif)
+![Halloween](./halloween-giphy.gif)
+![New Years](./new-year-giphy.gif)
+![Santa](./santa-giphy.gif)
+![Shamrock](./shamrock-giphy.gif)
+![Turkey](./turkey-giphy.gif)
+![Valentine](./valentine-giphy.gif)
+![Veterans](./veterans-giphy.gif)
