@@ -5,3 +5,6 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.DS_Store
+# LOCAL FILES #
+######################
+notes.local.txt
